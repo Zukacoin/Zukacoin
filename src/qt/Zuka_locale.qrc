@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/Zuka_bg.qm</file>
+        <file alias="ca">locale/Zuka_ca.qm</file>
+        <file alias="cs">locale/Zuka_cs.qm</file>
+        <file alias="da">locale/Zuka_da.qm</file>
+        <file alias="de">locale/Zuka_de.qm</file>
+        <file alias="en">locale/Zuka_en.qm</file>
+        <file alias="en_US">locale/Zuka_en_US.qm</file>
+        <file alias="es">locale/Zuka_es.qm</file>
+        <file alias="fi">locale/Zuka_fi.qm</file>
+        <file alias="fr_FR">locale/Zuka_fr_FR.qm</file>
+        <file alias="it">locale/Zuka_it.qm</file>
+        <file alias="ja">locale/Zuka_ja.qm</file>
+        <file alias="ko_KR">locale/Zuka_ko_KR.qm</file>
+        <file alias="nl">locale/Zuka_nl.qm</file>
+        <file alias="pl">locale/Zuka_pl.qm</file>
+        <file alias="pt">locale/Zuka_pt.qm</file>
+        <file alias="pt_BR">locale/Zuka_pt_BR.qm</file>
+        <file alias="ro_RO">locale/Zuka_ro_RO.qm</file>
+        <file alias="ru">locale/Zuka_ru.qm</file>
+        <file alias="sk">locale/Zuka_sk.qm</file>
+        <file alias="sv">locale/Zuka_sv.qm</file>
+        <file alias="uk">locale/Zuka_uk.qm</file>
+        <file alias="zh_CN">locale/Zuka_zh_CN.qm</file>
+        <file alias="zh_TW">locale/Zuka_zh_TW.qm</file>
+    </qresource>
+</RCC>
